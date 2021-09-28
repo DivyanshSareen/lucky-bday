@@ -29,6 +29,7 @@ input[type="number"] {
   border: 1px solid #b24080;
   border-radius: 4px;
   height: 1.4rem;
+  max-width: 10rem;
 }
 input[type="date"] {
   background: #fff9b2;
@@ -36,6 +37,7 @@ input[type="date"] {
   border: 1px solid #b24080;
   border-radius: 4px;
   height: 1.4rem;
+  max-width: 10rem;
 }
 .container {
   margin-top: 3em;
